@@ -277,5 +277,15 @@ export const themes: Theme[] = [
 			"--accent-color": "#c5bdb5",
 			"--accent-color2": "#93a662"
 		}
+	},
+	{
+		name: "custom jawn",
+		image: "./pictures/pic_9.png",
+		colors: {
+			"--bg-color": "#2E2E2E",
+			"--default-color": "#E6E6E6",
+			"--accent-color": "#9ad1a2",
+			"--accent-color2": "#B4FFE6",
+		}
 	}
 ]
