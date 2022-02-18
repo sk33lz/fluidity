@@ -20,29 +20,33 @@ export type linkGroup = {
 /*
 ──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀▀▀▌
 ───▄▄██▌█ BEEP BEEP
-▄▄▄▌▐██▌█ GAY PORN DELIVERY
+▄▄▄▌▐██▌█ DELIVER THE GOODS!
 ███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄​▄▄▄▄▄▄▌
 ▀(@)▀▀▀▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀(@)▀
 */
 export const links: linkGroup[] = [
 	{
-		title: "Reddit",
+		title: "Jawns",
 		links: [
 			{
-				label: "r/startpages",
-				value: "https://www.reddit.com/r/startpages/",
+				label: "Gmail",
+				value: "https://mail.google.com/mail/u/0/#inbox",
 			},
 			{
-				label: "r/unixporn",
-				value: "https://www.reddit.com/r/unixporn/",
+				label: "GitHub Repos",
+				value: "https://github.com/sk33lz?tab=repositories",
 			},
 			{
-				label: "r/rainmeter",
-				value: "https://www.reddit.com/r/rainmeter/",
+				label: "Old Reddit",
+				value: "https://old.reddit.com/",
 			},
 			{
-				label: "r/AnimalsBeingDerps",
-				value: "https://www.reddit.com/r/AnimalsBeingDerps/",
+				label: "YouTube",
+				value: "https://www.youtube.com",
+			},
+			{
+				label: "Twitter Trending",
+				value: "https://twitter.com/explore/tabs/trending",
 			},
 		]
 	},
