@@ -285,7 +285,7 @@ export const themes: Theme[] = [
 			"--bg-color": "#2E2E2E",
 			"--default-color": "#E6E6E6",
 			"--accent-color": "#9ad1a2",
-			"--accent-color2": "#B4FFE6",
+			"--accent-color2": "#F9E18F",
 		}
 	}
 ]
