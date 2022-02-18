@@ -6,6 +6,7 @@ import pic_5 from "./pictures/pic_5.jpg";
 import pic_6 from "./pictures/pic_6.jpg";
 import pic_7 from "./pictures/pic_7.jpg";
 import pic_8 from "./pictures/pic_8.png";
+import pic_9 from "./pictures/pic_9.jpg";
 
 export type dataElem = {
 	label: string,
@@ -280,7 +281,7 @@ export const themes: Theme[] = [
 	},
 	{
 		name: "custom jawn",
-		image: "./pictures/pic_9.png",
+		image: pic_9,
 		colors: {
 			"--bg-color": "#2E2E2E",
 			"--default-color": "#E6E6E6",
