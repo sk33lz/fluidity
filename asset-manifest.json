@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/fluidity/static/css/main.d0b8bccf.chunk.css",
-    "main.js": "/fluidity/static/js/main.2e855e48.chunk.js",
-    "main.js.map": "/fluidity/static/js/main.2e855e48.chunk.js.map",
+    "main.js": "/fluidity/static/js/main.dd406dd1.chunk.js",
+    "main.js.map": "/fluidity/static/js/main.dd406dd1.chunk.js.map",
     "runtime-main.js": "/fluidity/static/js/runtime-main.718823d6.js",
     "runtime-main.js.map": "/fluidity/static/js/runtime-main.718823d6.js.map",
-    "static/js/2.a13a3398.chunk.js": "/fluidity/static/js/2.a13a3398.chunk.js",
-    "static/js/2.a13a3398.chunk.js.map": "/fluidity/static/js/2.a13a3398.chunk.js.map",
+    "static/js/2.c4469e0f.chunk.js": "/fluidity/static/js/2.c4469e0f.chunk.js",
+    "static/js/2.c4469e0f.chunk.js.map": "/fluidity/static/js/2.c4469e0f.chunk.js.map",
     "index.html": "/fluidity/index.html",
-    "precache-manifest.6e6733c754e091ffce84dc73b5048c1d.js": "/fluidity/precache-manifest.6e6733c754e091ffce84dc73b5048c1d.js",
+    "precache-manifest.6115d312b1d9ae7f806252e9325dc426.js": "/fluidity/precache-manifest.6115d312b1d9ae7f806252e9325dc426.js",
     "service-worker.js": "/fluidity/service-worker.js",
     "static/css/main.d0b8bccf.chunk.css.map": "/fluidity/static/css/main.d0b8bccf.chunk.css.map",
-    "static/js/2.a13a3398.chunk.js.LICENSE.txt": "/fluidity/static/js/2.a13a3398.chunk.js.LICENSE.txt",
+    "static/js/2.c4469e0f.chunk.js.LICENSE.txt": "/fluidity/static/js/2.c4469e0f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/fluidity/static/media/FiraCode-Regular.3da66ca1.woff",
     "static/media/duckduckgo.svg": "/fluidity/static/media/duckduckgo.1a837031.svg",
     "static/media/google.svg": "/fluidity/static/media/google.0c182f86.svg",
@@ -24,12 +24,13 @@
     "static/media/pic_6.jpg": "/fluidity/static/media/pic_6.65b20253.jpg",
     "static/media/pic_7.jpg": "/fluidity/static/media/pic_7.6516acf6.jpg",
     "static/media/pic_8.png": "/fluidity/static/media/pic_8.ba1342f4.png",
+    "static/media/pic_9.jpg": "/fluidity/static/media/pic_9.e253369f.jpg",
     "static/media/qwant.svg": "/fluidity/static/media/qwant.7b2c220e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.718823d6.js",
-    "static/js/2.a13a3398.chunk.js",
+    "static/js/2.c4469e0f.chunk.js",
     "static/css/main.d0b8bccf.chunk.css",
-    "static/js/main.2e855e48.chunk.js"
+    "static/js/main.dd406dd1.chunk.js"
   ]
 }
