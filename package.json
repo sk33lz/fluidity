@@ -3,7 +3,7 @@
   "description": "An accordion based startpage.",
   "version": "0.4.2",
   "private": true,
-  "homepage": "https://prettycoffee.github.io/fluidity/",
+  "homepage": "https://sk33lz.github.io/fluidity/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
