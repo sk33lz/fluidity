@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fluidity/static/css/main.0002f482.chunk.css",
-    "main.js": "/fluidity/static/js/main.e3b16b5d.chunk.js",
-    "main.js.map": "/fluidity/static/js/main.e3b16b5d.chunk.js.map",
+    "main.css": "/fluidity/static/css/main.d0b8bccf.chunk.css",
+    "main.js": "/fluidity/static/js/main.44d5fcde.chunk.js",
+    "main.js.map": "/fluidity/static/js/main.44d5fcde.chunk.js.map",
     "runtime-main.js": "/fluidity/static/js/runtime-main.718823d6.js",
     "runtime-main.js.map": "/fluidity/static/js/runtime-main.718823d6.js.map",
     "static/js/2.a13a3398.chunk.js": "/fluidity/static/js/2.a13a3398.chunk.js",
     "static/js/2.a13a3398.chunk.js.map": "/fluidity/static/js/2.a13a3398.chunk.js.map",
     "index.html": "/fluidity/index.html",
-    "precache-manifest.7c70728d083abc8fd8e62d1d754ffe1d.js": "/fluidity/precache-manifest.7c70728d083abc8fd8e62d1d754ffe1d.js",
+    "precache-manifest.b62cdf1f650232676cf1a7ac86c35f6f.js": "/fluidity/precache-manifest.b62cdf1f650232676cf1a7ac86c35f6f.js",
     "service-worker.js": "/fluidity/service-worker.js",
-    "static/css/main.0002f482.chunk.css.map": "/fluidity/static/css/main.0002f482.chunk.css.map",
+    "static/css/main.d0b8bccf.chunk.css.map": "/fluidity/static/css/main.d0b8bccf.chunk.css.map",
     "static/js/2.a13a3398.chunk.js.LICENSE.txt": "/fluidity/static/js/2.a13a3398.chunk.js.LICENSE.txt",
     "static/media/index.css": "/fluidity/static/media/FiraCode-Regular.3da66ca1.woff",
-    "static/media/duckduckgo.svg": "/fluidity/static/media/duckduckgo.e5067b7c.svg",
-    "static/media/google.svg": "/fluidity/static/media/google.9ef22081.svg",
+    "static/media/duckduckgo.svg": "/fluidity/static/media/duckduckgo.1a837031.svg",
+    "static/media/google.svg": "/fluidity/static/media/google.0c182f86.svg",
     "static/media/logo.png": "/fluidity/static/media/logo.06ef2568.png",
     "static/media/pic_1.jpg": "/fluidity/static/media/pic_1.03400a86.jpg",
     "static/media/pic_2.jpg": "/fluidity/static/media/pic_2.42b93d95.jpg",
@@ -24,12 +24,12 @@
     "static/media/pic_6.jpg": "/fluidity/static/media/pic_6.65b20253.jpg",
     "static/media/pic_7.jpg": "/fluidity/static/media/pic_7.6516acf6.jpg",
     "static/media/pic_8.png": "/fluidity/static/media/pic_8.ba1342f4.png",
-    "static/media/qwant.svg": "/fluidity/static/media/qwant.f90c346a.svg"
+    "static/media/qwant.svg": "/fluidity/static/media/qwant.7b2c220e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.718823d6.js",
     "static/js/2.a13a3398.chunk.js",
-    "static/css/main.0002f482.chunk.css",
-    "static/js/main.e3b16b5d.chunk.js"
+    "static/css/main.d0b8bccf.chunk.css",
+    "static/js/main.44d5fcde.chunk.js"
   ]
 }
