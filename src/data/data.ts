@@ -216,6 +216,16 @@ export type Theme = {
 
 export const themes: Theme[] = [
 	{
+		name: "Sk33lz Jawn",
+		image: pic_9,
+		colors: {
+			"--bg-color": "#2E2E2E",
+			"--default-color": "#E6E6E6",
+			"--accent-color": "#9ad1a2",
+			"--accent-color2": "#F9E18F",
+		}
+	},
+	{
 		name: "DeathAndMilk",
 		image: pic_1,
 		colors: {
@@ -273,16 +283,6 @@ export const themes: Theme[] = [
 			"--default-color": "#f1daba",
 			"--accent-color": "#c5bdb5",
 			"--accent-color2": "#93a662"
-		}
-	},
-	{
-		name: "custom jawn",
-		image: pic_9,
-		colors: {
-			"--bg-color": "#2E2E2E",
-			"--default-color": "#E6E6E6",
-			"--accent-color": "#9ad1a2",
-			"--accent-color2": "#F9E18F",
 		}
 	}
 ]
