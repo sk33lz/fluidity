@@ -105,24 +105,28 @@ export const links: linkGroup[] = [
 		title: "Music",
 		links: [
 			{
-				label: "i wanna be a cowboy",
-				value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
+				label: "3AM Eternal",
+				value: "https://www.youtube.com/watch?v=HDsCeC6f0zc",
 			},
 			{
-				label: "let the bodies hit the floor",
-				value: "https://www.youtube.com/watch?v=b--VKaCB9u0",
+				label: "Under Mi Sensi",
+				value: "https://www.youtube.com/watch?v=uozhx1xeTDg",
 			},
 			{
-				label: "Nobody Kanna Cross It",
-				value: "https://www.youtube.com/watch?v=2wqTnwJGvtc",
+				label: "Can You Feel It?",
+				value: "https://www.youtube.com/watch?v=hCSkw4roTEQ",
 			},
 			{
-				label: "Smug Dancin",
-				value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q",
+				label: "Boogie",
+				value: "https://www.youtube.com/watch?v=tRYKAMjKgto",
 			},
 			{
-				label: "Utamaru - The Sanctified Mind Cover",
-				value: "https://www.youtube.com/watch?v=MHlJKLlS07U",
+				label: "B-Side",
+				value: "https://www.youtube.com/watch?v=CgugkEB-q_Q",
+			},
+			{
+				label: "Fette's Vette",
+				value: "https://www.youtube.com/watch?v=2z9XTeeA43o",
 			},
 		]
 	},
@@ -130,8 +134,8 @@ export const links: linkGroup[] = [
 		title: "Sauce",
 		links: [
 			{
-				label: "Pictures - DeathAndMilk",
-				value: "https://www.instagram.com/deathandmilk_/",
+				label: "Fluidity Startpage",
+				value: "https://github.com/PrettyCoffee/fluidity",
 			},
 			{
 				label: "Icons - FontAwesome",
@@ -144,14 +148,6 @@ export const links: linkGroup[] = [
 			{
 				label: "Wave Animation - mburakerman",
 				value: "https://codepen.io/mburakerman/pen/eRZZEv",
-			},
-			{
-				label: "Da real sauce ԅ(♡﹃♡ԅ)",
-				value: "https://www.youtube.com/watch?v=qr89xoZyE1g",
-			},
-			{
-				label: "Even more real sauce ( ͡° ͜ʖ ͡°)",
-				value: "https://www.youtube.com/watch?v=VLhJOd_TFiI",
 			},
 		]
 	},
